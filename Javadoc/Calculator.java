@@ -6,6 +6,7 @@
  * @since 1.0
  */
 public class Calculator {
+    
     /**
      * Суммирует два целых числа.
      *
