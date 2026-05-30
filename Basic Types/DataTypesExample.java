@@ -29,13 +29,10 @@ public class DataTypesExample {
         System.out.println("short: " + shortValue + ", zero: " + shortZero);
         System.out.println("int: " + intValue + ", zero: " + intZero);
         System.out.println("long: " + longValue + ", zero: " + longZero);
-
         System.out.println("float: " + floatValue + ", zero: " + floatZero);
         System.out.println("double: " + doubleValue + ", zero: " + doubleZero);
-
         System.out.println("char: " + charValue);
         System.out.println("char zero: '" + charZero + "'");
-
         System.out.println("boolean true: " + boolTrue);
         System.out.println("boolean false: " + boolFalse);
     }
