@@ -3,7 +3,6 @@ public class InstanceofExample {
         // Базовые примеры
         String str = "Hello";
         Integer num = 100;
-
         System.out.println("str instanceof String: " + (str instanceof String));     // true
         System.out.println("str instanceof Object: " + (str instanceof Object));     // true
         System.out.println("num instanceof Integer: " + (num instanceof Integer));   // true
