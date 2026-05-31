@@ -2,7 +2,6 @@ class Base {
     public void processData() {
         System.out.println("Base processData");
     }
-    
     public void save() {
         System.out.println("Base save");
     }
