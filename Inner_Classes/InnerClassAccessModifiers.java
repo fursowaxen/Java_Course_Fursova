@@ -32,9 +32,9 @@ public class Outer {
         o.testAccess();
         
         // Извне:
-        PublicInner pi = o.new PublicInner();     // ✅ public - доступен
-        // PrivateInner pri = o.new PrivateInner(); // ❌ private - недоступен
-        // ProtectedInner pro = o.new ProtectedInner(); // ✅ если в том же пакете
-        // DefaultInner di = o.new DefaultInner();     // ✅ если в том же пакете
+        PublicInner pi = o.new PublicInner();     
+        // PrivateInner pri = o.new PrivateInner(); 
+        // ProtectedInner pro = o.new ProtectedInner(); 
+        // DefaultInner di = o.new DefaultInner();     
     }
 }
