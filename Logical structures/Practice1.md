@@ -1,8 +1,8 @@
 **Результат:**
-static logic
-logic (1) id=0
-logic (2) id=1
-ctor id=100
+static logic  
+logic (1) id=0  
+logic (2) id=1  
+ctor id=100  
 
 **Объяснение:**
 - **static logic** — статический блок выполняется первым при загрузке класса, до создания любого объекта
